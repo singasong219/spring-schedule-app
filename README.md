@@ -103,7 +103,7 @@
  }
  ```
 
-ERD
+ERD 이미지입니다.
 ![ERD](src/main/resources/static/images/erd.png)
 
 
