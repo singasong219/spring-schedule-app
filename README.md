@@ -104,8 +104,9 @@
  ```
 
 ERD
+![ERD](src/main/resources/static/images/erd.png)
 
-![ERD](./src/main/java/com/sparta/springscheduleapp/images/erd.png)
+
  
 
 
